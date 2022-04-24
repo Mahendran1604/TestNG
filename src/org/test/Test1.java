@@ -16,6 +16,7 @@ public class Test1 {
 	@Test
 	public void tc3() {
 		System.out.println("TC 3");
+		System.out.println("Good Morning");
 	}
 
 }
